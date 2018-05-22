@@ -1,0 +1,12 @@
+[
+    {
+        "id_transaksi": 2,
+        "id_pelanggan": 4,
+        "no_rek": 123123,
+        "total_trans": 10000,
+        "created_at": "1527002393",
+        "updated_at": "1527002393",
+        "status": "insert",
+        "sync": false
+    }
+]
